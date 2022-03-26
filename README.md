@@ -4,7 +4,7 @@ I will be pre-processing a txt fyle and PDF by defining a function in python the
 For 50000 entries its work in constant time.
 
 Step:-----
-->Load file via defined function
+->Load file via defined function \n
 ->Clean text and convert it into Spacy doc object
 ->Load pre-trained english language model en_core_web_lg
 ->Convert docs into DocBin and store it into '.spacy' file
